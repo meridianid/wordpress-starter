@@ -20,6 +20,7 @@
 > 3. [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
 > 4. [Jetpack](https://wordpress.org/plugins/jetpack/)
 > 5. [Imagify Image Optimizer](https://wordpress.org/plugins/imagify/)
+> 6. [NextGEN Gallery](https://wordpress.org/plugins/nextgen-gallery/)
 
 ## Deployment
 
