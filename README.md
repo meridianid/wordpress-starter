@@ -15,6 +15,18 @@
 ## Building Layouts
 
 ## Plugins
+> 1. [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+> <p align="center">
+    <a href="https://wordpress.org/plugins/woocommerce/" target="_blank">
+        <img src="https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2017/09/woo-commerce.jpg?x67925" height="100px">
+    </a>
+    <h1 align="center">WooCommerce</h1>
+    <br>
+</p>
+> 2. [Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)
+> 3. [W3 Total Cache](https://wordpress.org/plugins/w3-total-cache/)
+> 4. [Jetpack](https://wordpress.org/plugins/jetpack/)
+> 5. [Imagify Image Optimizer](https://wordpress.org/plugins/imagify/)
 
 ## Deployment
 
